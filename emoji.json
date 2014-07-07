@@ -1,0 +1,842 @@
+{"code": "U+1F601", "description": "GRINNING FACE WITH SMILING EYES"}
+{"code": "U+1F602", "description": "FACE WITH TEARS OF JOY"}
+{"code": "U+1F603", "description": "SMILING FACE WITH OPEN MOUTH"}
+{"code": "U+1F604", "description": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES"}
+{"code": "U+1F605", "description": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT"}
+{"code": "U+1F606", "description": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES"}
+{"code": "U+1F609", "description": "WINKING FACE"}
+{"code": "U+1F60A", "description": "SMILING FACE WITH SMILING EYES"}
+{"code": "U+1F60B", "description": "FACE SAVOURING DELICIOUS FOOD"}
+{"code": "U+1F60C", "description": "RELIEVED FACE"}
+{"code": "U+1F60D", "description": "SMILING FACE WITH HEART-SHAPED EYES"}
+{"code": "U+1F60F", "description": "SMIRKING FACE"}
+{"code": "U+1F612", "description": "UNAMUSED FACE"}
+{"code": "U+1F613", "description": "FACE WITH COLD SWEAT"}
+{"code": "U+1F614", "description": "PENSIVE FACE"}
+{"code": "U+1F616", "description": "CONFOUNDED FACE"}
+{"code": "U+1F618", "description": "FACE THROWING A KISS"}
+{"code": "U+1F61A", "description": "KISSING FACE WITH CLOSED EYES"}
+{"code": "U+1F61C", "description": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE"}
+{"code": "U+1F61D", "description": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES"}
+{"code": "U+1F61E", "description": "DISAPPOINTED FACE"}
+{"code": "U+1F620", "description": "ANGRY FACE"}
+{"code": "U+1F621", "description": "POUTING FACE"}
+{"code": "U+1F622", "description": "CRYING FACE"}
+{"code": "U+1F623", "description": "PERSEVERING FACE"}
+{"code": "U+1F624", "description": "FACE WITH LOOK OF TRIUMPH"}
+{"code": "U+1F625", "description": "DISAPPOINTED BUT RELIEVED FACE"}
+{"code": "U+1F628", "description": "FEARFUL FACE"}
+{"code": "U+1F629", "description": "WEARY FACE"}
+{"code": "U+1F62A", "description": "SLEEPY FACE"}
+{"code": "U+1F62B", "description": "TIRED FACE"}
+{"code": "U+1F62D", "description": "LOUDLY CRYING FACE"}
+{"code": "U+1F630", "description": "FACE WITH OPEN MOUTH AND COLD SWEAT"}
+{"code": "U+1F631", "description": "FACE SCREAMING IN FEAR"}
+{"code": "U+1F632", "description": "ASTONISHED FACE"}
+{"code": "U+1F633", "description": "FLUSHED FACE"}
+{"code": "U+1F635", "description": "DIZZY FACE"}
+{"code": "U+1F637", "description": "FACE WITH MEDICAL MASK"}
+{"code": "U+1F638", "description": "GRINNING CAT FACE WITH SMILING EYES"}
+{"code": "U+1F639", "description": "CAT FACE WITH TEARS OF JOY"}
+{"code": "U+1F63A", "description": "SMILING CAT FACE WITH OPEN MOUTH"}
+{"code": "U+1F63B", "description": "SMILING CAT FACE WITH HEART-SHAPED EYES"}
+{"code": "U+1F63C", "description": "CAT FACE WITH WRY SMILE"}
+{"code": "U+1F63D", "description": "KISSING CAT FACE WITH CLOSED EYES"}
+{"code": "U+1F63E", "description": "POUTING CAT FACE"}
+{"code": "U+1F63F", "description": "CRYING CAT FACE"}
+{"code": "U+1F640", "description": "WEARY CAT FACE"}
+{"code": "U+1F645", "description": "FACE WITH NO GOOD GESTURE"}
+{"code": "U+1F646", "description": "FACE WITH OK GESTURE"}
+{"code": "U+1F647", "description": "PERSON BOWING DEEPLY"}
+{"code": "U+1F648", "description": "SEE-NO-EVIL MONKEY"}
+{"code": "U+1F649", "description": "HEAR-NO-EVIL MONKEY"}
+{"code": "U+1F64A", "description": "SPEAK-NO-EVIL MONKEY"}
+{"code": "U+1F64B", "description": "HAPPY PERSON RAISING ONE HAND"}
+{"code": "U+1F64C", "description": "PERSON RAISING BOTH HANDS IN CELEBRATION"}
+{"code": "U+1F64D", "description": "PERSON FROWNING"}
+{"code": "U+1F64E", "description": "PERSON WITH POUTING FACE"}
+{"code": "U+1F64F", "description": "PERSON WITH FOLDED HANDS"}
+{"code": "U+2702", "description": "BLACK SCISSORS"}
+{"code": "U+2705", "description": "WHITE HEAVY CHECK MARK"}
+{"code": "U+2708", "description": "AIRPLANE"}
+{"code": "U+2709", "description": "ENVELOPE"}
+{"code": "U+270A", "description": "RAISED FIST"}
+{"code": "U+270B", "description": "RAISED HAND"}
+{"code": "U+270C", "description": "VICTORY HAND"}
+{"code": "U+270F", "description": "PENCIL"}
+{"code": "U+2712", "description": "BLACK NIB"}
+{"code": "U+2714", "description": "HEAVY CHECK MARK"}
+{"code": "U+2716", "description": "HEAVY MULTIPLICATION X"}
+{"code": "U+2728", "description": "SPARKLES"}
+{"code": "U+2733", "description": "EIGHT SPOKED ASTERISK"}
+{"code": "U+2734", "description": "EIGHT POINTED BLACK STAR"}
+{"code": "U+2744", "description": "SNOWFLAKE"}
+{"code": "U+2747", "description": "SPARKLE"}
+{"code": "U+274C", "description": "CROSS MARK"}
+{"code": "U+274E", "description": "NEGATIVE SQUARED CROSS MARK"}
+{"code": "U+2753", "description": "BLACK QUESTION MARK ORNAMENT"}
+{"code": "U+2754", "description": "WHITE QUESTION MARK ORNAMENT"}
+{"code": "U+2755", "description": "WHITE EXCLAMATION MARK ORNAMENT"}
+{"code": "U+2757", "description": "HEAVY EXCLAMATION MARK SYMBOL"}
+{"code": "U+2764", "description": "HEAVY BLACK HEART"}
+{"code": "U+2795", "description": "HEAVY PLUS SIGN"}
+{"code": "U+2796", "description": "HEAVY MINUS SIGN"}
+{"code": "U+2797", "description": "HEAVY DIVISION SIGN"}
+{"code": "U+27A1", "description": "BLACK RIGHTWARDS ARROW"}
+{"code": "U+27B0", "description": "CURLY LOOP"}
+{"code": "U+1F680", "description": "ROCKET"}
+{"code": "U+1F683", "description": "RAILWAY CAR"}
+{"code": "U+1F684", "description": "HIGH-SPEED TRAIN"}
+{"code": "U+1F685", "description": "HIGH-SPEED TRAIN WITH BULLET NOSE"}
+{"code": "U+1F687", "description": "METRO"}
+{"code": "U+1F689", "description": "STATION"}
+{"code": "U+1F68C", "description": "BUS"}
+{"code": "U+1F68F", "description": "BUS STOP"}
+{"code": "U+1F691", "description": "AMBULANCE"}
+{"code": "U+1F692", "description": "FIRE ENGINE"}
+{"code": "U+1F693", "description": "POLICE CAR"}
+{"code": "U+1F695", "description": "TAXI"}
+{"code": "U+1F697", "description": "AUTOMOBILE"}
+{"code": "U+1F699", "description": "RECREATIONAL VEHICLE"}
+{"code": "U+1F69A", "description": "DELIVERY TRUCK"}
+{"code": "U+1F6A2", "description": "SHIP"}
+{"code": "U+1F6A4", "description": "SPEEDBOAT"}
+{"code": "U+1F6A5", "description": "HORIZONTAL TRAFFIC LIGHT"}
+{"code": "U+1F6A7", "description": "CONSTRUCTION SIGN"}
+{"code": "U+1F6A8", "description": "POLICE CARS REVOLVING LIGHT"}
+{"code": "U+1F6A9", "description": "TRIANGULAR FLAG ON POST"}
+{"code": "U+1F6AA", "description": "DOOR"}
+{"code": "U+1F6AB", "description": "NO ENTRY SIGN"}
+{"code": "U+1F6AC", "description": "SMOKING SYMBOL"}
+{"code": "U+1F6AD", "description": "NO SMOKING SYMBOL"}
+{"code": "U+1F6B2", "description": "BICYCLE"}
+{"code": "U+1F6B6", "description": "PEDESTRIAN"}
+{"code": "U+1F6B9", "description": "MENS SYMBOL"}
+{"code": "U+1F6BA", "description": "WOMENS SYMBOL"}
+{"code": "U+1F6BB", "description": "RESTROOM"}
+{"code": "U+1F6BC", "description": "BABY SYMBOL"}
+{"code": "U+1F6BD", "description": "TOILET"}
+{"code": "U+1F6BE", "description": "WATER CLOSET"}
+{"code": "U+1F6C0", "description": "BATH"}
+{"code": "U+24C2", "description": "CIRCLED LATIN CAPITAL LETTER M"}
+{"code": "U+1F170", "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER A"}
+{"code": "U+1F171", "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER B"}
+{"code": "U+1F17E", "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER O"}
+{"code": "U+1F17F", "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER P"}
+{"code": "U+1F18E", "description": "NEGATIVE SQUARED AB"}
+{"code": "U+1F191", "description": "SQUARED CL"}
+{"code": "U+1F192", "description": "SQUARED COOL"}
+{"code": "U+1F193", "description": "SQUARED FREE"}
+{"code": "U+1F194", "description": "SQUARED ID"}
+{"code": "U+1F195", "description": "SQUARED NEW"}
+{"code": "U+1F196", "description": "SQUARED NG"}
+{"code": "U+1F197", "description": "SQUARED OK"}
+{"code": "U+1F198", "description": "SQUARED SOS"}
+{"code": "U+1F199", "description": "SQUARED UP WITH EXCLAMATION MARK"}
+{"code": "U+1F19A", "description": "SQUARED VS"}
+{"code": "U+1F1E9 U+1F1EA", "description": "REGIONAL INDICATOR SYMBOL LETTER D + REGIONAL INDICATOR SYMBOL LETTER E"}
+{"code": "U+1F1EC U+1F1E7", "description": "REGIONAL INDICATOR SYMBOL LETTER G + REGIONAL INDICATOR SYMBOL LETTER B"}
+{"code": "U+1F1E8 U+1F1F3", "description": "REGIONAL INDICATOR SYMBOL LETTER C + REGIONAL INDICATOR SYMBOL LETTER N"}
+{"code": "U+1F1EF U+1F1F5", "description": "REGIONAL INDICATOR SYMBOL LETTER J + REGIONAL INDICATOR SYMBOL LETTER P"}
+{"code": "U+1F1F0 U+1F1F7", "description": "REGIONAL INDICATOR SYMBOL LETTER K + REGIONAL INDICATOR SYMBOL LETTER R"}
+{"code": "U+1F1EB U+1F1F7", "description": "REGIONAL INDICATOR SYMBOL LETTER F + REGIONAL INDICATOR SYMBOL LETTER R"}
+{"code": "U+1F1EA U+1F1F8", "description": "REGIONAL INDICATOR SYMBOL LETTER E + REGIONAL INDICATOR SYMBOL LETTER S"}
+{"code": "U+1F1EE U+1F1F9", "description": "REGIONAL INDICATOR SYMBOL LETTER I + REGIONAL INDICATOR SYMBOL LETTER T"}
+{"code": "U+1F1FA U+1F1F8", "description": "REGIONAL INDICATOR SYMBOL LETTER U + REGIONAL INDICATOR SYMBOL LETTER S"}
+{"code": "U+1F1F7 U+1F1FA", "description": "REGIONAL INDICATOR SYMBOL LETTER R + REGIONAL INDICATOR SYMBOL LETTER U"}
+{"code": "U+1F201", "description": "SQUARED KATAKANA KOKO"}
+{"code": "U+1F202", "description": "SQUARED KATAKANA SA"}
+{"code": "U+1F21A", "description": "SQUARED CJK UNIFIED IDEOGRAPH-7121"}
+{"code": "U+1F22F", "description": "SQUARED CJK UNIFIED IDEOGRAPH-6307"}
+{"code": "U+1F232", "description": "SQUARED CJK UNIFIED IDEOGRAPH-7981"}
+{"code": "U+1F233", "description": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A"}
+{"code": "U+1F234", "description": "SQUARED CJK UNIFIED IDEOGRAPH-5408"}
+{"code": "U+1F235", "description": "SQUARED CJK UNIFIED IDEOGRAPH-6E80"}
+{"code": "U+1F236", "description": "SQUARED CJK UNIFIED IDEOGRAPH-6709"}
+{"code": "U+1F237", "description": "SQUARED CJK UNIFIED IDEOGRAPH-6708"}
+{"code": "U+1F238", "description": "SQUARED CJK UNIFIED IDEOGRAPH-7533"}
+{"code": "U+1F239", "description": "SQUARED CJK UNIFIED IDEOGRAPH-5272"}
+{"code": "U+1F23A", "description": "SQUARED CJK UNIFIED IDEOGRAPH-55B6"}
+{"code": "U+1F250", "description": "CIRCLED IDEOGRAPH ADVANTAGE"}
+{"code": "U+1F251", "description": "CIRCLED IDEOGRAPH ACCEPT"}
+{"code": "U+00A9", "description": "COPYRIGHT SIGN"}
+{"code": "U+00AE", "description": "REGISTERED SIGN"}
+{"code": "U+203C", "description": "DOUBLE EXCLAMATION MARK"}
+{"code": "U+2049", "description": "EXCLAMATION QUESTION MARK"}
+{"code": "U+0038 U+20E3", "description": "DIGIT EIGHT + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0039 U+20E3", "description": "DIGIT NINE + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0037 U+20E3", "description": "DIGIT SEVEN + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0036 U+20E3", "description": "DIGIT SIX + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0031 U+20E3", "description": "DIGIT ONE + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0030 U+20E3", "description": "DIGIT ZERO + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0032 U+20E3", "description": "DIGIT TWO + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0033 U+20E3", "description": "DIGIT THREE + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0035 U+20E3", "description": "DIGIT FIVE + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0034 U+20E3", "description": "DIGIT FOUR + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+0023 U+20E3", "description": "NUMBER SIGN + COMBINING ENCLOSING KEYCAP"}
+{"code": "U+2122", "description": "TRADE MARK SIGN"}
+{"code": "U+2139", "description": "INFORMATION SOURCE"}
+{"code": "U+2194", "description": "LEFT RIGHT ARROW"}
+{"code": "U+2195", "description": "UP DOWN ARROW"}
+{"code": "U+2196", "description": "NORTH WEST ARROW"}
+{"code": "U+2197", "description": "NORTH EAST ARROW"}
+{"code": "U+2198", "description": "SOUTH EAST ARROW"}
+{"code": "U+2199", "description": "SOUTH WEST ARROW"}
+{"code": "U+21A9", "description": "LEFTWARDS ARROW WITH HOOK"}
+{"code": "U+21AA", "description": "RIGHTWARDS ARROW WITH HOOK"}
+{"code": "U+231A", "description": "WATCH"}
+{"code": "U+231B", "description": "HOURGLASS"}
+{"code": "U+23E9", "description": "BLACK RIGHT-POINTING DOUBLE TRIANGLE"}
+{"code": "U+23EA", "description": "BLACK LEFT-POINTING DOUBLE TRIANGLE"}
+{"code": "U+23EB", "description": "BLACK UP-POINTING DOUBLE TRIANGLE"}
+{"code": "U+23EC", "description": "BLACK DOWN-POINTING DOUBLE TRIANGLE"}
+{"code": "U+23F0", "description": "ALARM CLOCK"}
+{"code": "U+23F3", "description": "HOURGLASS WITH FLOWING SAND"}
+{"code": "U+25AA", "description": "BLACK SMALL SQUARE"}
+{"code": "U+25AB", "description": "WHITE SMALL SQUARE"}
+{"code": "U+25B6", "description": "BLACK RIGHT-POINTING TRIANGLE"}
+{"code": "U+25C0", "description": "BLACK LEFT-POINTING TRIANGLE"}
+{"code": "U+25FB", "description": "WHITE MEDIUM SQUARE"}
+{"code": "U+25FC", "description": "BLACK MEDIUM SQUARE"}
+{"code": "U+25FD", "description": "WHITE MEDIUM SMALL SQUARE"}
+{"code": "U+25FE", "description": "BLACK MEDIUM SMALL SQUARE"}
+{"code": "U+2600", "description": "BLACK SUN WITH RAYS"}
+{"code": "U+2601", "description": "CLOUD"}
+{"code": "U+260E", "description": "BLACK TELEPHONE"}
+{"code": "U+2611", "description": "BALLOT BOX WITH CHECK"}
+{"code": "U+2614", "description": "UMBRELLA WITH RAIN DROPS"}
+{"code": "U+2615", "description": "HOT BEVERAGE"}
+{"code": "U+261D", "description": "WHITE UP POINTING INDEX"}
+{"code": "U+263A", "description": "WHITE SMILING FACE"}
+{"code": "U+2648", "description": "ARIES"}
+{"code": "U+2649", "description": "TAURUS"}
+{"code": "U+264A", "description": "GEMINI"}
+{"code": "U+264B", "description": "CANCER"}
+{"code": "U+264C", "description": "LEO"}
+{"code": "U+264D", "description": "VIRGO"}
+{"code": "U+264E", "description": "LIBRA"}
+{"code": "U+264F", "description": "SCORPIUS"}
+{"code": "U+2650", "description": "SAGITTARIUS"}
+{"code": "U+2651", "description": "CAPRICORN"}
+{"code": "U+2652", "description": "AQUARIUS"}
+{"code": "U+2653", "description": "PISCES"}
+{"code": "U+2660", "description": "BLACK SPADE SUIT"}
+{"code": "U+2663", "description": "BLACK CLUB SUIT"}
+{"code": "U+2665", "description": "BLACK HEART SUIT"}
+{"code": "U+2666", "description": "BLACK DIAMOND SUIT"}
+{"code": "U+2668", "description": "HOT SPRINGS"}
+{"code": "U+267B", "description": "BLACK UNIVERSAL RECYCLING SYMBOL"}
+{"code": "U+267F", "description": "WHEELCHAIR SYMBOL"}
+{"code": "U+2693", "description": "ANCHOR"}
+{"code": "U+26A0", "description": "WARNING SIGN"}
+{"code": "U+26A1", "description": "HIGH VOLTAGE SIGN"}
+{"code": "U+26AA", "description": "MEDIUM WHITE CIRCLE"}
+{"code": "U+26AB", "description": "MEDIUM BLACK CIRCLE"}
+{"code": "U+26BD", "description": "SOCCER BALL"}
+{"code": "U+26BE", "description": "BASEBALL"}
+{"code": "U+26C4", "description": "SNOWMAN WITHOUT SNOW"}
+{"code": "U+26C5", "description": "SUN BEHIND CLOUD"}
+{"code": "U+26CE", "description": "OPHIUCHUS"}
+{"code": "U+26D4", "description": "NO ENTRY"}
+{"code": "U+26EA", "description": "CHURCH"}
+{"code": "U+26F2", "description": "FOUNTAIN"}
+{"code": "U+26F3", "description": "FLAG IN HOLE"}
+{"code": "U+26F5", "description": "SAILBOAT"}
+{"code": "U+26FA", "description": "TENT"}
+{"code": "U+26FD", "description": "FUEL PUMP"}
+{"code": "U+2934", "description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS"}
+{"code": "U+2935", "description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS"}
+{"code": "U+2B05", "description": "LEFTWARDS BLACK ARROW"}
+{"code": "U+2B06", "description": "UPWARDS BLACK ARROW"}
+{"code": "U+2B07", "description": "DOWNWARDS BLACK ARROW"}
+{"code": "U+2B1B", "description": "BLACK LARGE SQUARE"}
+{"code": "U+2B1C", "description": "WHITE LARGE SQUARE"}
+{"code": "U+2B50", "description": "WHITE MEDIUM STAR"}
+{"code": "U+2B55", "description": "HEAVY LARGE CIRCLE"}
+{"code": "U+3030", "description": "WAVY DASH"}
+{"code": "U+303D", "description": "PART ALTERNATION MARK"}
+{"code": "U+3297", "description": "CIRCLED IDEOGRAPH CONGRATULATION"}
+{"code": "U+3299", "description": "CIRCLED IDEOGRAPH SECRET"}
+{"code": "U+1F004", "description": "MAHJONG TILE RED DRAGON"}
+{"code": "U+1F0CF", "description": "PLAYING CARD BLACK JOKER"}
+{"code": "U+1F300", "description": "CYCLONE"}
+{"code": "U+1F301", "description": "FOGGY"}
+{"code": "U+1F302", "description": "CLOSED UMBRELLA"}
+{"code": "U+1F303", "description": "NIGHT WITH STARS"}
+{"code": "U+1F304", "description": "SUNRISE OVER MOUNTAINS"}
+{"code": "U+1F305", "description": "SUNRISE"}
+{"code": "U+1F306", "description": "CITYSCAPE AT DUSK"}
+{"code": "U+1F307", "description": "SUNSET OVER BUILDINGS"}
+{"code": "U+1F308", "description": "RAINBOW"}
+{"code": "U+1F309", "description": "BRIDGE AT NIGHT"}
+{"code": "U+1F30A", "description": "WATER WAVE"}
+{"code": "U+1F30B", "description": "VOLCANO"}
+{"code": "U+1F30C", "description": "MILKY WAY"}
+{"code": "U+1F30F", "description": "EARTH GLOBE ASIA-AUSTRALIA"}
+{"code": "U+1F311", "description": "NEW MOON SYMBOL"}
+{"code": "U+1F313", "description": "FIRST QUARTER MOON SYMBOL"}
+{"code": "U+1F314", "description": "WAXING GIBBOUS MOON SYMBOL"}
+{"code": "U+1F315", "description": "FULL MOON SYMBOL"}
+{"code": "U+1F319", "description": "CRESCENT MOON"}
+{"code": "U+1F31B", "description": "FIRST QUARTER MOON WITH FACE"}
+{"code": "U+1F31F", "description": "GLOWING STAR"}
+{"code": "U+1F320", "description": "SHOOTING STAR"}
+{"code": "U+1F330", "description": "CHESTNUT"}
+{"code": "U+1F331", "description": "SEEDLING"}
+{"code": "U+1F334", "description": "PALM TREE"}
+{"code": "U+1F335", "description": "CACTUS"}
+{"code": "U+1F337", "description": "TULIP"}
+{"code": "U+1F338", "description": "CHERRY BLOSSOM"}
+{"code": "U+1F339", "description": "ROSE"}
+{"code": "U+1F33A", "description": "HIBISCUS"}
+{"code": "U+1F33B", "description": "SUNFLOWER"}
+{"code": "U+1F33C", "description": "BLOSSOM"}
+{"code": "U+1F33D", "description": "EAR OF MAIZE"}
+{"code": "U+1F33E", "description": "EAR OF RICE"}
+{"code": "U+1F33F", "description": "HERB"}
+{"code": "U+1F340", "description": "FOUR LEAF CLOVER"}
+{"code": "U+1F341", "description": "MAPLE LEAF"}
+{"code": "U+1F342", "description": "FALLEN LEAF"}
+{"code": "U+1F343", "description": "LEAF FLUTTERING IN WIND"}
+{"code": "U+1F344", "description": "MUSHROOM"}
+{"code": "U+1F345", "description": "TOMATO"}
+{"code": "U+1F346", "description": "AUBERGINE"}
+{"code": "U+1F347", "description": "GRAPES"}
+{"code": "U+1F348", "description": "MELON"}
+{"code": "U+1F349", "description": "WATERMELON"}
+{"code": "U+1F34A", "description": "TANGERINE"}
+{"code": "U+1F34C", "description": "BANANA"}
+{"code": "U+1F34D", "description": "PINEAPPLE"}
+{"code": "U+1F34E", "description": "RED APPLE"}
+{"code": "U+1F34F", "description": "GREEN APPLE"}
+{"code": "U+1F351", "description": "PEACH"}
+{"code": "U+1F352", "description": "CHERRIES"}
+{"code": "U+1F353", "description": "STRAWBERRY"}
+{"code": "U+1F354", "description": "HAMBURGER"}
+{"code": "U+1F355", "description": "SLICE OF PIZZA"}
+{"code": "U+1F356", "description": "MEAT ON BONE"}
+{"code": "U+1F357", "description": "POULTRY LEG"}
+{"code": "U+1F358", "description": "RICE CRACKER"}
+{"code": "U+1F359", "description": "RICE BALL"}
+{"code": "U+1F35A", "description": "COOKED RICE"}
+{"code": "U+1F35B", "description": "CURRY AND RICE"}
+{"code": "U+1F35C", "description": "STEAMING BOWL"}
+{"code": "U+1F35D", "description": "SPAGHETTI"}
+{"code": "U+1F35E", "description": "BREAD"}
+{"code": "U+1F35F", "description": "FRENCH FRIES"}
+{"code": "U+1F360", "description": "ROASTED SWEET POTATO"}
+{"code": "U+1F361", "description": "DANGO"}
+{"code": "U+1F362", "description": "ODEN"}
+{"code": "U+1F363", "description": "SUSHI"}
+{"code": "U+1F364", "description": "FRIED SHRIMP"}
+{"code": "U+1F365", "description": "FISH CAKE WITH SWIRL DESIGN"}
+{"code": "U+1F366", "description": "SOFT ICE CREAM"}
+{"code": "U+1F367", "description": "SHAVED ICE"}
+{"code": "U+1F368", "description": "ICE CREAM"}
+{"code": "U+1F369", "description": "DOUGHNUT"}
+{"code": "U+1F36A", "description": "COOKIE"}
+{"code": "U+1F36B", "description": "CHOCOLATE BAR"}
+{"code": "U+1F36C", "description": "CANDY"}
+{"code": "U+1F36D", "description": "LOLLIPOP"}
+{"code": "U+1F36E", "description": "CUSTARD"}
+{"code": "U+1F36F", "description": "HONEY POT"}
+{"code": "U+1F370", "description": "SHORTCAKE"}
+{"code": "U+1F371", "description": "BENTO BOX"}
+{"code": "U+1F372", "description": "POT OF FOOD"}
+{"code": "U+1F373", "description": "COOKING"}
+{"code": "U+1F374", "description": "FORK AND KNIFE"}
+{"code": "U+1F375", "description": "TEACUP WITHOUT HANDLE"}
+{"code": "U+1F376", "description": "SAKE BOTTLE AND CUP"}
+{"code": "U+1F377", "description": "WINE GLASS"}
+{"code": "U+1F378", "description": "COCKTAIL GLASS"}
+{"code": "U+1F379", "description": "TROPICAL DRINK"}
+{"code": "U+1F37A", "description": "BEER MUG"}
+{"code": "U+1F37B", "description": "CLINKING BEER MUGS"}
+{"code": "U+1F380", "description": "RIBBON"}
+{"code": "U+1F381", "description": "WRAPPED PRESENT"}
+{"code": "U+1F382", "description": "BIRTHDAY CAKE"}
+{"code": "U+1F383", "description": "JACK-O-LANTERN"}
+{"code": "U+1F384", "description": "CHRISTMAS TREE"}
+{"code": "U+1F385", "description": "FATHER CHRISTMAS"}
+{"code": "U+1F386", "description": "FIREWORKS"}
+{"code": "U+1F387", "description": "FIREWORK SPARKLER"}
+{"code": "U+1F388", "description": "BALLOON"}
+{"code": "U+1F389", "description": "PARTY POPPER"}
+{"code": "U+1F38A", "description": "CONFETTI BALL"}
+{"code": "U+1F38B", "description": "TANABATA TREE"}
+{"code": "U+1F38C", "description": "CROSSED FLAGS"}
+{"code": "U+1F38D", "description": "PINE DECORATION"}
+{"code": "U+1F38E", "description": "JAPANESE DOLLS"}
+{"code": "U+1F38F", "description": "CARP STREAMER"}
+{"code": "U+1F390", "description": "WIND CHIME"}
+{"code": "U+1F391", "description": "MOON VIEWING CEREMONY"}
+{"code": "U+1F392", "description": "SCHOOL SATCHEL"}
+{"code": "U+1F393", "description": "GRADUATION CAP"}
+{"code": "U+1F3A0", "description": "CAROUSEL HORSE"}
+{"code": "U+1F3A1", "description": "FERRIS WHEEL"}
+{"code": "U+1F3A2", "description": "ROLLER COASTER"}
+{"code": "U+1F3A3", "description": "FISHING POLE AND FISH"}
+{"code": "U+1F3A4", "description": "MICROPHONE"}
+{"code": "U+1F3A5", "description": "MOVIE CAMERA"}
+{"code": "U+1F3A6", "description": "CINEMA"}
+{"code": "U+1F3A7", "description": "HEADPHONE"}
+{"code": "U+1F3A8", "description": "ARTIST PALETTE"}
+{"code": "U+1F3A9", "description": "TOP HAT"}
+{"code": "U+1F3AA", "description": "CIRCUS TENT"}
+{"code": "U+1F3AB", "description": "TICKET"}
+{"code": "U+1F3AC", "description": "CLAPPER BOARD"}
+{"code": "U+1F3AD", "description": "PERFORMING ARTS"}
+{"code": "U+1F3AE", "description": "VIDEO GAME"}
+{"code": "U+1F3AF", "description": "DIRECT HIT"}
+{"code": "U+1F3B0", "description": "SLOT MACHINE"}
+{"code": "U+1F3B1", "description": "BILLIARDS"}
+{"code": "U+1F3B2", "description": "GAME DIE"}
+{"code": "U+1F3B3", "description": "BOWLING"}
+{"code": "U+1F3B4", "description": "FLOWER PLAYING CARDS"}
+{"code": "U+1F3B5", "description": "MUSICAL NOTE"}
+{"code": "U+1F3B6", "description": "MULTIPLE MUSICAL NOTES"}
+{"code": "U+1F3B7", "description": "SAXOPHONE"}
+{"code": "U+1F3B8", "description": "GUITAR"}
+{"code": "U+1F3B9", "description": "MUSICAL KEYBOARD"}
+{"code": "U+1F3BA", "description": "TRUMPET"}
+{"code": "U+1F3BB", "description": "VIOLIN"}
+{"code": "U+1F3BC", "description": "MUSICAL SCORE"}
+{"code": "U+1F3BD", "description": "RUNNING SHIRT WITH SASH"}
+{"code": "U+1F3BE", "description": "TENNIS RACQUET AND BALL"}
+{"code": "U+1F3BF", "description": "SKI AND SKI BOOT"}
+{"code": "U+1F3C0", "description": "BASKETBALL AND HOOP"}
+{"code": "U+1F3C1", "description": "CHEQUERED FLAG"}
+{"code": "U+1F3C2", "description": "SNOWBOARDER"}
+{"code": "U+1F3C3", "description": "RUNNER"}
+{"code": "U+1F3C4", "description": "SURFER"}
+{"code": "U+1F3C6", "description": "TROPHY"}
+{"code": "U+1F3C8", "description": "AMERICAN FOOTBALL"}
+{"code": "U+1F3CA", "description": "SWIMMER"}
+{"code": "U+1F3E0", "description": "HOUSE BUILDING"}
+{"code": "U+1F3E1", "description": "HOUSE WITH GARDEN"}
+{"code": "U+1F3E2", "description": "OFFICE BUILDING"}
+{"code": "U+1F3E3", "description": "JAPANESE POST OFFICE"}
+{"code": "U+1F3E5", "description": "HOSPITAL"}
+{"code": "U+1F3E6", "description": "BANK"}
+{"code": "U+1F3E7", "description": "AUTOMATED TELLER MACHINE"}
+{"code": "U+1F3E8", "description": "HOTEL"}
+{"code": "U+1F3E9", "description": "LOVE HOTEL"}
+{"code": "U+1F3EA", "description": "CONVENIENCE STORE"}
+{"code": "U+1F3EB", "description": "SCHOOL"}
+{"code": "U+1F3EC", "description": "DEPARTMENT STORE"}
+{"code": "U+1F3ED", "description": "FACTORY"}
+{"code": "U+1F3EE", "description": "IZAKAYA LANTERN"}
+{"code": "U+1F3EF", "description": "JAPANESE CASTLE"}
+{"code": "U+1F3F0", "description": "EUROPEAN CASTLE"}
+{"code": "U+1F40C", "description": "SNAIL"}
+{"code": "U+1F40D", "description": "SNAKE"}
+{"code": "U+1F40E", "description": "HORSE"}
+{"code": "U+1F411", "description": "SHEEP"}
+{"code": "U+1F412", "description": "MONKEY"}
+{"code": "U+1F414", "description": "CHICKEN"}
+{"code": "U+1F417", "description": "BOAR"}
+{"code": "U+1F418", "description": "ELEPHANT"}
+{"code": "U+1F419", "description": "OCTOPUS"}
+{"code": "U+1F41A", "description": "SPIRAL SHELL"}
+{"code": "U+1F41B", "description": "BUG"}
+{"code": "U+1F41C", "description": "ANT"}
+{"code": "U+1F41D", "description": "HONEYBEE"}
+{"code": "U+1F41E", "description": "LADY BEETLE"}
+{"code": "U+1F41F", "description": "FISH"}
+{"code": "U+1F420", "description": "TROPICAL FISH"}
+{"code": "U+1F421", "description": "BLOWFISH"}
+{"code": "U+1F422", "description": "TURTLE"}
+{"code": "U+1F423", "description": "HATCHING CHICK"}
+{"code": "U+1F424", "description": "BABY CHICK"}
+{"code": "U+1F425", "description": "FRONT-FACING BABY CHICK"}
+{"code": "U+1F426", "description": "BIRD"}
+{"code": "U+1F427", "description": "PENGUIN"}
+{"code": "U+1F428", "description": "KOALA"}
+{"code": "U+1F429", "description": "POODLE"}
+{"code": "U+1F42B", "description": "BACTRIAN CAMEL"}
+{"code": "U+1F42C", "description": "DOLPHIN"}
+{"code": "U+1F42D", "description": "MOUSE FACE"}
+{"code": "U+1F42E", "description": "COW FACE"}
+{"code": "U+1F42F", "description": "TIGER FACE"}
+{"code": "U+1F430", "description": "RABBIT FACE"}
+{"code": "U+1F431", "description": "CAT FACE"}
+{"code": "U+1F432", "description": "DRAGON FACE"}
+{"code": "U+1F433", "description": "SPOUTING WHALE"}
+{"code": "U+1F434", "description": "HORSE FACE"}
+{"code": "U+1F435", "description": "MONKEY FACE"}
+{"code": "U+1F436", "description": "DOG FACE"}
+{"code": "U+1F437", "description": "PIG FACE"}
+{"code": "U+1F438", "description": "FROG FACE"}
+{"code": "U+1F439", "description": "HAMSTER FACE"}
+{"code": "U+1F43A", "description": "WOLF FACE"}
+{"code": "U+1F43B", "description": "BEAR FACE"}
+{"code": "U+1F43C", "description": "PANDA FACE"}
+{"code": "U+1F43D", "description": "PIG NOSE"}
+{"code": "U+1F43E", "description": "PAW PRINTS"}
+{"code": "U+1F440", "description": "EYES"}
+{"code": "U+1F442", "description": "EAR"}
+{"code": "U+1F443", "description": "NOSE"}
+{"code": "U+1F444", "description": "MOUTH"}
+{"code": "U+1F445", "description": "TONGUE"}
+{"code": "U+1F446", "description": "WHITE UP POINTING BACKHAND INDEX"}
+{"code": "U+1F447", "description": "WHITE DOWN POINTING BACKHAND INDEX"}
+{"code": "U+1F448", "description": "WHITE LEFT POINTING BACKHAND INDEX"}
+{"code": "U+1F449", "description": "WHITE RIGHT POINTING BACKHAND INDEX"}
+{"code": "U+1F44A", "description": "FISTED HAND SIGN"}
+{"code": "U+1F44B", "description": "WAVING HAND SIGN"}
+{"code": "U+1F44C", "description": "OK HAND SIGN"}
+{"code": "U+1F44D", "description": "THUMBS UP SIGN"}
+{"code": "U+1F44E", "description": "THUMBS DOWN SIGN"}
+{"code": "U+1F44F", "description": "CLAPPING HANDS SIGN"}
+{"code": "U+1F450", "description": "OPEN HANDS SIGN"}
+{"code": "U+1F451", "description": "CROWN"}
+{"code": "U+1F452", "description": "WOMANS HAT"}
+{"code": "U+1F453", "description": "EYEGLASSES"}
+{"code": "U+1F454", "description": "NECKTIE"}
+{"code": "U+1F455", "description": "T-SHIRT"}
+{"code": "U+1F456", "description": "JEANS"}
+{"code": "U+1F457", "description": "DRESS"}
+{"code": "U+1F458", "description": "KIMONO"}
+{"code": "U+1F459", "description": "BIKINI"}
+{"code": "U+1F45A", "description": "WOMANS CLOTHES"}
+{"code": "U+1F45B", "description": "PURSE"}
+{"code": "U+1F45C", "description": "HANDBAG"}
+{"code": "U+1F45D", "description": "POUCH"}
+{"code": "U+1F45E", "description": "MANS SHOE"}
+{"code": "U+1F45F", "description": "ATHLETIC SHOE"}
+{"code": "U+1F460", "description": "HIGH-HEELED SHOE"}
+{"code": "U+1F461", "description": "WOMANS SANDAL"}
+{"code": "U+1F462", "description": "WOMANS BOOTS"}
+{"code": "U+1F463", "description": "FOOTPRINTS"}
+{"code": "U+1F464", "description": "BUST IN SILHOUETTE"}
+{"code": "U+1F466", "description": "BOY"}
+{"code": "U+1F467", "description": "GIRL"}
+{"code": "U+1F468", "description": "MAN"}
+{"code": "U+1F469", "description": "WOMAN"}
+{"code": "U+1F46A", "description": "FAMILY"}
+{"code": "U+1F46B", "description": "MAN AND WOMAN HOLDING HANDS"}
+{"code": "U+1F46E", "description": "POLICE OFFICER"}
+{"code": "U+1F46F", "description": "WOMAN WITH BUNNY EARS"}
+{"code": "U+1F470", "description": "BRIDE WITH VEIL"}
+{"code": "U+1F471", "description": "PERSON WITH BLOND HAIR"}
+{"code": "U+1F472", "description": "MAN WITH GUA PI MAO"}
+{"code": "U+1F473", "description": "MAN WITH TURBAN"}
+{"code": "U+1F474", "description": "OLDER MAN"}
+{"code": "U+1F475", "description": "OLDER WOMAN"}
+{"code": "U+1F476", "description": "BABY"}
+{"code": "U+1F477", "description": "CONSTRUCTION WORKER"}
+{"code": "U+1F478", "description": "PRINCESS"}
+{"code": "U+1F479", "description": "JAPANESE OGRE"}
+{"code": "U+1F47A", "description": "JAPANESE GOBLIN"}
+{"code": "U+1F47B", "description": "GHOST"}
+{"code": "U+1F47C", "description": "BABY ANGEL"}
+{"code": "U+1F47D", "description": "EXTRATERRESTRIAL ALIEN"}
+{"code": "U+1F47E", "description": "ALIEN MONSTER"}
+{"code": "U+1F47F", "description": "IMP"}
+{"code": "U+1F480", "description": "SKULL"}
+{"code": "U+1F481", "description": "INFORMATION DESK PERSON"}
+{"code": "U+1F482", "description": "GUARDSMAN"}
+{"code": "U+1F483", "description": "DANCER"}
+{"code": "U+1F484", "description": "LIPSTICK"}
+{"code": "U+1F485", "description": "NAIL POLISH"}
+{"code": "U+1F486", "description": "FACE MASSAGE"}
+{"code": "U+1F487", "description": "HAIRCUT"}
+{"code": "U+1F488", "description": "BARBER POLE"}
+{"code": "U+1F489", "description": "SYRINGE"}
+{"code": "U+1F48A", "description": "PILL"}
+{"code": "U+1F48B", "description": "KISS MARK"}
+{"code": "U+1F48C", "description": "LOVE LETTER"}
+{"code": "U+1F48D", "description": "RING"}
+{"code": "U+1F48E", "description": "GEM STONE"}
+{"code": "U+1F48F", "description": "KISS"}
+{"code": "U+1F490", "description": "BOUQUET"}
+{"code": "U+1F491", "description": "COUPLE WITH HEART"}
+{"code": "U+1F492", "description": "WEDDING"}
+{"code": "U+1F493", "description": "BEATING HEART"}
+{"code": "U+1F494", "description": "BROKEN HEART"}
+{"code": "U+1F495", "description": "TWO HEARTS"}
+{"code": "U+1F496", "description": "SPARKLING HEART"}
+{"code": "U+1F497", "description": "GROWING HEART"}
+{"code": "U+1F498", "description": "HEART WITH ARROW"}
+{"code": "U+1F499", "description": "BLUE HEART"}
+{"code": "U+1F49A", "description": "GREEN HEART"}
+{"code": "U+1F49B", "description": "YELLOW HEART"}
+{"code": "U+1F49C", "description": "PURPLE HEART"}
+{"code": "U+1F49D", "description": "HEART WITH RIBBON"}
+{"code": "U+1F49E", "description": "REVOLVING HEARTS"}
+{"code": "U+1F49F", "description": "HEART DECORATION"}
+{"code": "U+1F4A0", "description": "DIAMOND SHAPE WITH A DOT INSIDE"}
+{"code": "U+1F4A1", "description": "ELECTRIC LIGHT BULB"}
+{"code": "U+1F4A2", "description": "ANGER SYMBOL"}
+{"code": "U+1F4A3", "description": "BOMB"}
+{"code": "U+1F4A4", "description": "SLEEPING SYMBOL"}
+{"code": "U+1F4A5", "description": "COLLISION SYMBOL"}
+{"code": "U+1F4A6", "description": "SPLASHING SWEAT SYMBOL"}
+{"code": "U+1F4A7", "description": "DROPLET"}
+{"code": "U+1F4A8", "description": "DASH SYMBOL"}
+{"code": "U+1F4A9", "description": "PILE OF POO"}
+{"code": "U+1F4AA", "description": "FLEXED BICEPS"}
+{"code": "U+1F4AB", "description": "DIZZY SYMBOL"}
+{"code": "U+1F4AC", "description": "SPEECH BALLOON"}
+{"code": "U+1F4AE", "description": "WHITE FLOWER"}
+{"code": "U+1F4AF", "description": "HUNDRED POINTS SYMBOL"}
+{"code": "U+1F4B0", "description": "MONEY BAG"}
+{"code": "U+1F4B1", "description": "CURRENCY EXCHANGE"}
+{"code": "U+1F4B2", "description": "HEAVY DOLLAR SIGN"}
+{"code": "U+1F4B3", "description": "CREDIT CARD"}
+{"code": "U+1F4B4", "description": "BANKNOTE WITH YEN SIGN"}
+{"code": "U+1F4B5", "description": "BANKNOTE WITH DOLLAR SIGN"}
+{"code": "U+1F4B8", "description": "MONEY WITH WINGS"}
+{"code": "U+1F4B9", "description": "CHART WITH UPWARDS TREND AND YEN SIGN"}
+{"code": "U+1F4BA", "description": "SEAT"}
+{"code": "U+1F4BB", "description": "PERSONAL COMPUTER"}
+{"code": "U+1F4BC", "description": "BRIEFCASE"}
+{"code": "U+1F4BD", "description": "MINIDISC"}
+{"code": "U+1F4BE", "description": "FLOPPY DISK"}
+{"code": "U+1F4BF", "description": "OPTICAL DISC"}
+{"code": "U+1F4C0", "description": "DVD"}
+{"code": "U+1F4C1", "description": "FILE FOLDER"}
+{"code": "U+1F4C2", "description": "OPEN FILE FOLDER"}
+{"code": "U+1F4C3", "description": "PAGE WITH CURL"}
+{"code": "U+1F4C4", "description": "PAGE FACING UP"}
+{"code": "U+1F4C5", "description": "CALENDAR"}
+{"code": "U+1F4C6", "description": "TEAR-OFF CALENDAR"}
+{"code": "U+1F4C7", "description": "CARD INDEX"}
+{"code": "U+1F4C8", "description": "CHART WITH UPWARDS TREND"}
+{"code": "U+1F4C9", "description": "CHART WITH DOWNWARDS TREND"}
+{"code": "U+1F4CA", "description": "BAR CHART"}
+{"code": "U+1F4CB", "description": "CLIPBOARD"}
+{"code": "U+1F4CC", "description": "PUSHPIN"}
+{"code": "U+1F4CD", "description": "ROUND PUSHPIN"}
+{"code": "U+1F4CE", "description": "PAPERCLIP"}
+{"code": "U+1F4CF", "description": "STRAIGHT RULER"}
+{"code": "U+1F4D0", "description": "TRIANGULAR RULER"}
+{"code": "U+1F4D1", "description": "BOOKMARK TABS"}
+{"code": "U+1F4D2", "description": "LEDGER"}
+{"code": "U+1F4D3", "description": "NOTEBOOK"}
+{"code": "U+1F4D4", "description": "NOTEBOOK WITH DECORATIVE COVER"}
+{"code": "U+1F4D5", "description": "CLOSED BOOK"}
+{"code": "U+1F4D6", "description": "OPEN BOOK"}
+{"code": "U+1F4D7", "description": "GREEN BOOK"}
+{"code": "U+1F4D8", "description": "BLUE BOOK"}
+{"code": "U+1F4D9", "description": "ORANGE BOOK"}
+{"code": "U+1F4DA", "description": "BOOKS"}
+{"code": "U+1F4DB", "description": "NAME BADGE"}
+{"code": "U+1F4DC", "description": "SCROLL"}
+{"code": "U+1F4DD", "description": "MEMO"}
+{"code": "U+1F4DE", "description": "TELEPHONE RECEIVER"}
+{"code": "U+1F4DF", "description": "PAGER"}
+{"code": "U+1F4E0", "description": "FAX MACHINE"}
+{"code": "U+1F4E1", "description": "SATELLITE ANTENNA"}
+{"code": "U+1F4E2", "description": "PUBLIC ADDRESS LOUDSPEAKER"}
+{"code": "U+1F4E3", "description": "CHEERING MEGAPHONE"}
+{"code": "U+1F4E4", "description": "OUTBOX TRAY"}
+{"code": "U+1F4E5", "description": "INBOX TRAY"}
+{"code": "U+1F4E6", "description": "PACKAGE"}
+{"code": "U+1F4E7", "description": "E-MAIL SYMBOL"}
+{"code": "U+1F4E8", "description": "INCOMING ENVELOPE"}
+{"code": "U+1F4E9", "description": "ENVELOPE WITH DOWNWARDS ARROW ABOVE"}
+{"code": "U+1F4EA", "description": "CLOSED MAILBOX WITH LOWERED FLAG"}
+{"code": "U+1F4EB", "description": "CLOSED MAILBOX WITH RAISED FLAG"}
+{"code": "U+1F4EE", "description": "POSTBOX"}
+{"code": "U+1F4F0", "description": "NEWSPAPER"}
+{"code": "U+1F4F1", "description": "MOBILE PHONE"}
+{"code": "U+1F4F2", "description": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT"}
+{"code": "U+1F4F3", "description": "VIBRATION MODE"}
+{"code": "U+1F4F4", "description": "MOBILE PHONE OFF"}
+{"code": "U+1F4F6", "description": "ANTENNA WITH BARS"}
+{"code": "U+1F4F7", "description": "CAMERA"}
+{"code": "U+1F4F9", "description": "VIDEO CAMERA"}
+{"code": "U+1F4FA", "description": "TELEVISION"}
+{"code": "U+1F4FB", "description": "RADIO"}
+{"code": "U+1F4FC", "description": "VIDEOCASSETTE"}
+{"code": "U+1F503", "description": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"}
+{"code": "U+1F50A", "description": "SPEAKER WITH THREE SOUND WAVES"}
+{"code": "U+1F50B", "description": "BATTERY"}
+{"code": "U+1F50C", "description": "ELECTRIC PLUG"}
+{"code": "U+1F50D", "description": "LEFT-POINTING MAGNIFYING GLASS"}
+{"code": "U+1F50E", "description": "RIGHT-POINTING MAGNIFYING GLASS"}
+{"code": "U+1F50F", "description": "LOCK WITH INK PEN"}
+{"code": "U+1F510", "description": "CLOSED LOCK WITH KEY"}
+{"code": "U+1F511", "description": "KEY"}
+{"code": "U+1F512", "description": "LOCK"}
+{"code": "U+1F513", "description": "OPEN LOCK"}
+{"code": "U+1F514", "description": "BELL"}
+{"code": "U+1F516", "description": "BOOKMARK"}
+{"code": "U+1F517", "description": "LINK SYMBOL"}
+{"code": "U+1F518", "description": "RADIO BUTTON"}
+{"code": "U+1F519", "description": "BACK WITH LEFTWARDS ARROW ABOVE"}
+{"code": "U+1F51A", "description": "END WITH LEFTWARDS ARROW ABOVE"}
+{"code": "U+1F51B", "description": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE"}
+{"code": "U+1F51C", "description": "SOON WITH RIGHTWARDS ARROW ABOVE"}
+{"code": "U+1F51D", "description": "TOP WITH UPWARDS ARROW ABOVE"}
+{"code": "U+1F51E", "description": "NO ONE UNDER EIGHTEEN SYMBOL"}
+{"code": "U+1F51F", "description": "KEYCAP TEN"}
+{"code": "U+1F520", "description": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS"}
+{"code": "U+1F521", "description": "INPUT SYMBOL FOR LATIN SMALL LETTERS"}
+{"code": "U+1F522", "description": "INPUT SYMBOL FOR NUMBERS"}
+{"code": "U+1F523", "description": "INPUT SYMBOL FOR SYMBOLS"}
+{"code": "U+1F524", "description": "INPUT SYMBOL FOR LATIN LETTERS"}
+{"code": "U+1F525", "description": "FIRE"}
+{"code": "U+1F526", "description": "ELECTRIC TORCH"}
+{"code": "U+1F527", "description": "WRENCH"}
+{"code": "U+1F528", "description": "HAMMER"}
+{"code": "U+1F529", "description": "NUT AND BOLT"}
+{"code": "U+1F52A", "description": "HOCHO"}
+{"code": "U+1F52B", "description": "PISTOL"}
+{"code": "U+1F52E", "description": "CRYSTAL BALL"}
+{"code": "U+1F52F", "description": "SIX POINTED STAR WITH MIDDLE DOT"}
+{"code": "U+1F530", "description": "JAPANESE SYMBOL FOR BEGINNER"}
+{"code": "U+1F531", "description": "TRIDENT EMBLEM"}
+{"code": "U+1F532", "description": "BLACK SQUARE BUTTON"}
+{"code": "U+1F533", "description": "WHITE SQUARE BUTTON"}
+{"code": "U+1F534", "description": "LARGE RED CIRCLE"}
+{"code": "U+1F535", "description": "LARGE BLUE CIRCLE"}
+{"code": "U+1F536", "description": "LARGE ORANGE DIAMOND"}
+{"code": "U+1F537", "description": "LARGE BLUE DIAMOND"}
+{"code": "U+1F538", "description": "SMALL ORANGE DIAMOND"}
+{"code": "U+1F539", "description": "SMALL BLUE DIAMOND"}
+{"code": "U+1F53A", "description": "UP-POINTING RED TRIANGLE"}
+{"code": "U+1F53B", "description": "DOWN-POINTING RED TRIANGLE"}
+{"code": "U+1F53C", "description": "UP-POINTING SMALL RED TRIANGLE"}
+{"code": "U+1F53D", "description": "DOWN-POINTING SMALL RED TRIANGLE"}
+{"code": "U+1F550", "description": "CLOCK FACE ONE OCLOCK"}
+{"code": "U+1F551", "description": "CLOCK FACE TWO OCLOCK"}
+{"code": "U+1F552", "description": "CLOCK FACE THREE OCLOCK"}
+{"code": "U+1F553", "description": "CLOCK FACE FOUR OCLOCK"}
+{"code": "U+1F554", "description": "CLOCK FACE FIVE OCLOCK"}
+{"code": "U+1F555", "description": "CLOCK FACE SIX OCLOCK"}
+{"code": "U+1F556", "description": "CLOCK FACE SEVEN OCLOCK"}
+{"code": "U+1F557", "description": "CLOCK FACE EIGHT OCLOCK"}
+{"code": "U+1F558", "description": "CLOCK FACE NINE OCLOCK"}
+{"code": "U+1F559", "description": "CLOCK FACE TEN OCLOCK"}
+{"code": "U+1F55A", "description": "CLOCK FACE ELEVEN OCLOCK"}
+{"code": "U+1F55B", "description": "CLOCK FACE TWELVE OCLOCK"}
+{"code": "U+1F5FB", "description": "MOUNT FUJI"}
+{"code": "U+1F5FC", "description": "TOKYO TOWER"}
+{"code": "U+1F5FD", "description": "STATUE OF LIBERTY"}
+{"code": "U+1F5FE", "description": "SILHOUETTE OF JAPAN"}
+{"code": "U+1F5FF", "description": "MOYAI"}
+{"code": "U+1F600", "description": "GRINNING FACE"}
+{"code": "U+1F607", "description": "SMILING FACE WITH HALO"}
+{"code": "U+1F608", "description": "SMILING FACE WITH HORNS"}
+{"code": "U+1F60E", "description": "SMILING FACE WITH SUNGLASSES"}
+{"code": "U+1F610", "description": "NEUTRAL FACE"}
+{"code": "U+1F611", "description": "EXPRESSIONLESS FACE"}
+{"code": "U+1F615", "description": "CONFUSED FACE"}
+{"code": "U+1F617", "description": "KISSING FACE"}
+{"code": "U+1F619", "description": "KISSING FACE WITH SMILING EYES"}
+{"code": "U+1F61B", "description": "FACE WITH STUCK-OUT TONGUE"}
+{"code": "U+1F61F", "description": "WORRIED FACE"}
+{"code": "U+1F626", "description": "FROWNING FACE WITH OPEN MOUTH"}
+{"code": "U+1F627", "description": "ANGUISHED FACE"}
+{"code": "U+1F62C", "description": "GRIMACING FACE"}
+{"code": "U+1F62E", "description": "FACE WITH OPEN MOUTH"}
+{"code": "U+1F62F", "description": "HUSHED FACE"}
+{"code": "U+1F634", "description": "SLEEPING FACE"}
+{"code": "U+1F636", "description": "FACE WITHOUT MOUTH"}
+{"code": "U+1F681", "description": "HELICOPTER"}
+{"code": "U+1F682", "description": "STEAM LOCOMOTIVE"}
+{"code": "U+1F686", "description": "TRAIN"}
+{"code": "U+1F688", "description": "LIGHT RAIL"}
+{"code": "U+1F68A", "description": "TRAM"}
+{"code": "U+1F68D", "description": "ONCOMING BUS"}
+{"code": "U+1F68E", "description": "TROLLEYBUS"}
+{"code": "U+1F690", "description": "MINIBUS"}
+{"code": "U+1F694", "description": "ONCOMING POLICE CAR"}
+{"code": "U+1F696", "description": "ONCOMING TAXI"}
+{"code": "U+1F698", "description": "ONCOMING AUTOMOBILE"}
+{"code": "U+1F69B", "description": "ARTICULATED LORRY"}
+{"code": "U+1F69C", "description": "TRACTOR"}
+{"code": "U+1F69D", "description": "MONORAIL"}
+{"code": "U+1F69E", "description": "MOUNTAIN RAILWAY"}
+{"code": "U+1F69F", "description": "SUSPENSION RAILWAY"}
+{"code": "U+1F6A0", "description": "MOUNTAIN CABLEWAY"}
+{"code": "U+1F6A1", "description": "AERIAL TRAMWAY"}
+{"code": "U+1F6A3", "description": "ROWBOAT"}
+{"code": "U+1F6A6", "description": "VERTICAL TRAFFIC LIGHT"}
+{"code": "U+1F6AE", "description": "PUT LITTER IN ITS PLACE SYMBOL"}
+{"code": "U+1F6AF", "description": "DO NOT LITTER SYMBOL"}
+{"code": "U+1F6B0", "description": "POTABLE WATER SYMBOL"}
+{"code": "U+1F6B1", "description": "NON-POTABLE WATER SYMBOL"}
+{"code": "U+1F6B3", "description": "NO BICYCLES"}
+{"code": "U+1F6B4", "description": "BICYCLIST"}
+{"code": "U+1F6B5", "description": "MOUNTAIN BICYCLIST"}
+{"code": "U+1F6B7", "description": "NO PEDESTRIANS"}
+{"code": "U+1F6B8", "description": "CHILDREN CROSSING"}
+{"code": "U+1F6BF", "description": "SHOWER"}
+{"code": "U+1F6C1", "description": "BATHTUB"}
+{"code": "U+1F6C2", "description": "PASSPORT CONTROL"}
+{"code": "U+1F6C3", "description": "CUSTOMS"}
+{"code": "U+1F6C4", "description": "BAGGAGE CLAIM"}
+{"code": "U+1F6C5", "description": "LEFT LUGGAGE"}
+{"code": "U+1F30D", "description": "EARTH GLOBE EUROPE-AFRICA"}
+{"code": "U+1F30E", "description": "EARTH GLOBE AMERICAS"}
+{"code": "U+1F310", "description": "GLOBE WITH MERIDIANS"}
+{"code": "U+1F312", "description": "WAXING CRESCENT MOON SYMBOL"}
+{"code": "U+1F316", "description": "WANING GIBBOUS MOON SYMBOL"}
+{"code": "U+1F317", "description": "LAST QUARTER MOON SYMBOL"}
+{"code": "U+1F318", "description": "WANING CRESCENT MOON SYMBOL"}
+{"code": "U+1F31A", "description": "NEW MOON WITH FACE"}
+{"code": "U+1F31C", "description": "LAST QUARTER MOON WITH FACE"}
+{"code": "U+1F31D", "description": "FULL MOON WITH FACE"}
+{"code": "U+1F31E", "description": "SUN WITH FACE"}
+{"code": "U+1F332", "description": "EVERGREEN TREE"}
+{"code": "U+1F333", "description": "DECIDUOUS TREE"}
+{"code": "U+1F34B", "description": "LEMON"}
+{"code": "U+1F350", "description": "PEAR"}
+{"code": "U+1F37C", "description": "BABY BOTTLE"}
+{"code": "U+1F3C7", "description": "HORSE RACING"}
+{"code": "U+1F3C9", "description": "RUGBY FOOTBALL"}
+{"code": "U+1F3E4", "description": "EUROPEAN POST OFFICE"}
+{"code": "U+1F400", "description": "RAT"}
+{"code": "U+1F401", "description": "MOUSE"}
+{"code": "U+1F402", "description": "OX"}
+{"code": "U+1F403", "description": "WATER BUFFALO"}
+{"code": "U+1F404", "description": "COW"}
+{"code": "U+1F405", "description": "TIGER"}
+{"code": "U+1F406", "description": "LEOPARD"}
+{"code": "U+1F407", "description": "RABBIT"}
+{"code": "U+1F408", "description": "CAT"}
+{"code": "U+1F409", "description": "DRAGON"}
+{"code": "U+1F40A", "description": "CROCODILE"}
+{"code": "U+1F40B", "description": "WHALE"}
+{"code": "U+1F40F", "description": "RAM"}
+{"code": "U+1F410", "description": "GOAT"}
+{"code": "U+1F413", "description": "ROOSTER"}
+{"code": "U+1F415", "description": "DOG"}
+{"code": "U+1F416", "description": "PIG"}
+{"code": "U+1F42A", "description": "DROMEDARY CAMEL"}
+{"code": "U+1F465", "description": "BUSTS IN SILHOUETTE"}
+{"code": "U+1F46C", "description": "TWO MEN HOLDING HANDS"}
+{"code": "U+1F46D", "description": "TWO WOMEN HOLDING HANDS"}
+{"code": "U+1F4AD", "description": "THOUGHT BALLOON"}
+{"code": "U+1F4B6", "description": "BANKNOTE WITH EURO SIGN"}
+{"code": "U+1F4B7", "description": "BANKNOTE WITH POUND SIGN"}
+{"code": "U+1F4EC", "description": "OPEN MAILBOX WITH RAISED FLAG"}
+{"code": "U+1F4ED", "description": "OPEN MAILBOX WITH LOWERED FLAG"}
+{"code": "U+1F4EF", "description": "POSTAL HORN"}
+{"code": "U+1F4F5", "description": "NO MOBILE PHONES"}
+{"code": "U+1F500", "description": "TWISTED RIGHTWARDS ARROWS"}
+{"code": "U+1F501", "description": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS"}
+{"code": "U+1F502", "description": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY"}
+{"code": "U+1F504", "description": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"}
+{"code": "U+1F505", "description": "LOW BRIGHTNESS SYMBOL"}
+{"code": "U+1F506", "description": "HIGH BRIGHTNESS SYMBOL"}
+{"code": "U+1F507", "description": "SPEAKER WITH CANCELLATION STROKE"}
+{"code": "U+1F509", "description": "SPEAKER WITH ONE SOUND WAVE"}
+{"code": "U+1F515", "description": "BELL WITH CANCELLATION STROKE"}
+{"code": "U+1F52C", "description": "MICROSCOPE"}
+{"code": "U+1F52D", "description": "TELESCOPE"}
+{"code": "U+1F55C", "description": "CLOCK FACE ONE-THIRTY"}
+{"code": "U+1F55D", "description": "CLOCK FACE TWO-THIRTY"}
+{"code": "U+1F55E", "description": "CLOCK FACE THREE-THIRTY"}
+{"code": "U+1F55F", "description": "CLOCK FACE FOUR-THIRTY"}
+{"code": "U+1F560", "description": "CLOCK FACE FIVE-THIRTY"}
+{"code": "U+1F561", "description": "CLOCK FACE SIX-THIRTY"}
+{"code": "U+1F562", "description": "CLOCK FACE SEVEN-THIRTY"}
+{"code": "U+1F563", "description": "CLOCK FACE EIGHT-THIRTY"}
+{"code": "U+1F564", "description": "CLOCK FACE NINE-THIRTY"}
+{"code": "U+1F565", "description": "CLOCK FACE TEN-THIRTY"}
+{"code": "U+1F566", "description": "CLOCK FACE ELEVEN-THIRTY"}
+{"code": "U+1F567", "description": "CLOCK FACE TWELVE-THIRTY"}
