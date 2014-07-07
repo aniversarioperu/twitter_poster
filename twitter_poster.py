@@ -14,6 +14,8 @@ import config
 
 
 emoticons = {
+    '\?': u'\U00002753',
+    '\!': u'\U0000203C',
     ':grinning face with smiling eyes:': u'\U0001F601',
     ':face with tears of joy:': u'\U0001F602',
     ':smile:': u'\U0001F603',
