@@ -847,18 +847,23 @@ def convert_emoticons(status):
     return status
 
 
-def update_status(status, tweet_id):
+def update_status(status, reply_to_tweet):
     print status
     status = convert_emoticons(status.decode('utf-8'))
-    print status
     oauth = api.get_oauth()
 
-    url = "https://api.twitter.com/1.1/statuses/update.json"
-    payload = {
-        'status': status,
-    }
-    if tweet_id:
+    payload = dict()
+
+    if reply_to_tweet:
+        tweet_id = re.search("/([0-9]+)", reply_to_tweet).groups()[0]
         payload['in_reply_to_status_id'] = tweet_id
+
+        reply_user = re.search(".com/(\w+)/status", reply_to_tweet).groups()[0]
+        status = "@" + reply_user + " " + status
+        
+
+    url = "https://api.twitter.com/1.1/statuses/update.json"
+    payload['status'] = status
 
     print payload
     r = requests.post(url, auth=oauth, params=payload)
@@ -885,17 +890,18 @@ def main():
         '--reply',
         action='store',
         help='''reply to post''',
+        metavar='Enter tweet url',
         required=False,
-        dest='tweet_id',
+        dest='reply_to_tweet',
     )
 
     args = parser.parse_args()
     if args.tweet:
-        if args.tweet_id:
-            tweet_id = args.tweet_id.strip()
+        if args.reply_to_tweet:
+            reply_to_tweet = args.reply_to_tweet.strip()
         else:
-            tweet_id = None
-        update_status(args.tweet.strip(), tweet_id)
+            reply_to_tweet = None
+        update_status(args.tweet.strip(), reply_to_tweet)
 
 
 if __name__ == "__main__":
